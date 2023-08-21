@@ -24,9 +24,9 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:5000/auth/register",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/auth/register",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"auth",
@@ -51,9 +51,9 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:5000/auth/login",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/auth/login",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"auth",
@@ -69,9 +69,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/auth/logout",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/auth/logout",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"auth",
@@ -92,9 +92,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/users",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/users",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"users"
@@ -109,9 +109,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/users/64df9c34bdace19a10dc50f7",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/users/64df9c34bdace19a10dc50f7",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"users",
@@ -127,9 +127,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/users/showMe",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/users/showMe",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"users",
@@ -154,9 +154,9 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:5000/users/updateUser",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/users/updateUser",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"users",
@@ -181,9 +181,9 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:5000/users/updateUserPassword",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/users/updateUserPassword",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"users",
@@ -213,9 +213,9 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:5000/products",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/products",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"products"
@@ -230,9 +230,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/products",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/products",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"products"
@@ -247,9 +247,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/products/64dfaf6045bc2ee4b5587c30",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/products/64dfaf6045bc2ee4b5587c30",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"products",
@@ -274,9 +274,9 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:5000/products/64dfaf9845bc2ee4b5587c34",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/products/64dfaf9845bc2ee4b5587c34",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"products",
@@ -292,9 +292,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/products/64e0744feff7eb5ea3f63af6",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/products/64e0744feff7eb5ea3f63af6",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"products",
@@ -320,9 +320,9 @@
 							]
 						},
 						"url": {
-							"raw": "http://localhost:5000/products/uploadImage",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/products/uploadImage",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"products",
@@ -338,9 +338,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/products/64dfaf6045bc2ee4b5587c30/reviews",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/products/64dfaf6045bc2ee4b5587c30/reviews",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"products",
@@ -371,9 +371,9 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:5000/reviews",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/reviews",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"reviews"
@@ -388,9 +388,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/reviews",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/reviews",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"reviews"
@@ -405,9 +405,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/reviews/64e09a03f5fd8fbea1426832",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/reviews/64e09a03f5fd8fbea1426832",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"reviews",
@@ -432,9 +432,9 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:5000/reviews/64e10d875d0fa962dd6ef823",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/reviews/64e10d875d0fa962dd6ef823",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"reviews",
@@ -450,9 +450,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/reviews/64e10d875d0fa962dd6ef823",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/reviews/64e10d875d0fa962dd6ef823",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"reviews",
@@ -473,9 +473,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/orders",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/orders",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"orders"
@@ -499,9 +499,9 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:5000/orders",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/orders",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"orders"
@@ -516,9 +516,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/orders/showUserOrders",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/orders/showUserOrders",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"orders",
@@ -534,9 +534,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/orders/64e2923fb46f51f624778beb",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/orders/64e2923fb46f51f624778beb",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"orders",
@@ -561,9 +561,9 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:5000/orders/64e2923fb46f51f624778beb",
+							"raw": "https://e-commerce-api-q7eo.onrender.com/api/v1/orders/64e2923fb46f51f624778beb",
 							"host": [
-								"http://localhost:5000"
+								"https://e-commerce-api-q7eo.onrender.com/api/v1"
 							],
 							"path": [
 								"orders",
